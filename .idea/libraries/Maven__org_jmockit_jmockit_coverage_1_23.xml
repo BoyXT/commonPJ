@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.jmockit:jmockit-coverage:1.23">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../software/apache-maven-3.6.0/localRepertory/org/jmockit/jmockit-coverage/1.23/jmockit-coverage-1.23.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../../../software/apache-maven-3.6.0/localRepertory/org/jmockit/jmockit-coverage/1.23/jmockit-coverage-1.23-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../../software/apache-maven-3.6.0/localRepertory/org/jmockit/jmockit-coverage/1.23/jmockit-coverage-1.23-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
